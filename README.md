@@ -1,7 +1,10 @@
 # Cybersecurity Threat Dashboard
 
 An interactive Streamlit application that simulates and analyzes cybersecurity logs to detect suspicious activity.
-
+demo link 
+```
+https://note-9-threat-dashboard-app-slnbdk.streamlit.app
+```
 ## Features
 - Log simulation (ACCESS, AUTH, SCAN events)
 - Real-time dashboard with metrics and visualizations
